@@ -9,25 +9,25 @@ isouhub是基于Spring Boot + Elastic Stack 的一站式聚合搜索平台，对
 - - -
 搜文章：
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 高亮效果：
-![img_5.png](img_5.png)
+![img_5.png](img/img_5.png)
 
 搜图片：
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 PS:
 项目图片服务使用了微软提供的第三方图片服务接口————>>  [点击链接](https://www.bing.com/?scope=images&nr=1&FORM=NOFORM)
 
 搜用户：
 
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 
 搜视频：
 
-![img_3.png](img_3.png)
+![img_3.png](img/img_3.png)
 
 PS:
 项目视频服务来源于某站，接口调用可参考： [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
@@ -36,7 +36,7 @@ PS:
 
 - - -
 
-![img_4.png](img_4.png)
+![img_4.png](img/img_4.png)
 
 ### 技术选型（后端部分） ###
 
